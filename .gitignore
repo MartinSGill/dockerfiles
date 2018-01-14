@@ -1,0 +1,5 @@
+packages
+paket.lock
+
+!.packet\paket.exe
+
